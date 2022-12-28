@@ -326,4 +326,3 @@ public class Main {
 
 # Nested Static class
 
-Tìm hiểu thêm tại [đây](https://niithanoi.edu.vn/lap-trinh-java.html#chuong-vi-phan-2-nested-static-class-trong-java)

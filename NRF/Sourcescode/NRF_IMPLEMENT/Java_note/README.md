@@ -10,16 +10,6 @@ Các course học Java: https://loda.me/courses
 
 (Code Java thực hiện dưới đây là JDK-19 + Spring Boot 2.7.4)
 
-# Java Basic
-
-- [Phần 1](https://github.com/maduc238/open5gs-docker/blob/main/Java-note/Java.md)
-
-# Lập trình hướng đối tượng Java
-
-- [Phần 1](https://github.com/maduc238/open5gs-docker/blob/main/Java-note/Java-OOP.md)
-- [Phần 2](https://github.com/maduc238/open5gs-docker/blob/main/Java-note/Java-OOP-2.md)
-- [Phần 3](https://github.com/maduc238/open5gs-docker/blob/main/Java-note/Java-OOP-3.md)
-
 # Spring Framework
 
 Hướng dẫn cài spring trên

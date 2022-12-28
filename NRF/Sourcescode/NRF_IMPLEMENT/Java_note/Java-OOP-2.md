@@ -507,5 +507,4 @@ Giống: Chó
 Tôi là một chú chó
 ```
 
-# Phần tiếp theo ...
-https://github.com/maduc238/open5gs-docker/blob/main/Java-note/Java-OOP-3.md
+
